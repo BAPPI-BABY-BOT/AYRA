@@ -73,7 +73,7 @@ module.exports.run = async function ({ event, api }) {
     const one = senderID, two = mention[0];
     try {
       const path = await makeImage({ one, two });
-      return api.sendMessage({ body: "ইস তোমাকে তো অন্য বেডা জড়িয়ে ধরল আমি বস 𝐑𝐉 𝐅𝐀𝐑𝐇𝐀𝐍 কে বলে দিব।😒🔪", attachment: fs.createReadStream(path) }, threadID, () => fs.unlinkSync(path), messageID);
+      return api.sendMessage({ body: "ইস তোমাকে তো অন্য বেডা জড়িয়ে ধরল আমি বস 𝐁𝐀𝐏𝐏𝐈 কে বলে দিব।😒🔪", attachment: fs.createReadStream(path) }, threadID, () => fs.unlinkSync(path), messageID);
     } catch (error) {
       console.error("Error generating image:", error);
       return api.sendMessage("An error occurred while generating the image.", threadID, messageID);
