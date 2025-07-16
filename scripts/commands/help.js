@@ -2,7 +2,7 @@ module.exports.config = {
   name: "help",
   version: "1.0.0",
   permission: 0,
-  credits: "farhan",
+  credits: " Bappi",
   prefix: true,
   description: "search results on google",
   category: "without prefix",
@@ -45,7 +45,7 @@ _____________________
 
 💠𝐁𝐎𝐓 𝐍𝐀𝐌𝐄💠:${global.config.BOTNAME}
 
-🌼𝐁𝐎𝐓 𝐀𝐃𝐌𝐈𝐍🌼:『😽👉𝐑𝐉-𝐅𝐀𝐑𝐇𝐀𝐍👈😽』
+🌼𝐁𝐎𝐓 𝐀𝐃𝐌𝐈𝐍🌼:『😽👉𝐁𝐀𝐏𝐏𝐈👈😽』
 
 ╭──«~»──CMD──«~»──╮
 
@@ -87,17 +87,17 @@ PAGE 1/19
 ╭────────────❍
 ╰➤ «𝐍𝐔𝐌𝐁𝐄𝐑 𝐎𝐅 𝐏𝐀𝐆𝐄» 1
 ╭────────────❍ 
-╰➤ «𝐖𝐇𝐀𝐓'𝐒 𝐀𝐏𝐏:[𝟎𝟏𝟖𝟔𝟔𝟔𝟕𝟑𝟖𝟎𝟏]
+╰➤ «𝐖𝐇𝐀𝐓'𝐒 𝐀𝐏𝐏:[𝟎1727973997]
 
 _______🅲🅾🅽🆃🅰🅲🆃_______
 
-💥𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃(❶)💥:https://www.facebook.com/profile.php?id=61550529403710
+💥𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃(❶)💥:https://www.facebook.com/share/1Bv6wJP4gv/?mibextid=qi2Omg
 
-💥𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃(❷)💥:https://www.facebook.com/profile.php?id=61550121814016&mibextid=eBUYbo
+💥𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃(❷)💥:https://www.facebook.com/profile.php?id=61577699240305&mibextid=ZbWKwL
 
 ✴️𝐁𝐎𝐓 𝐏𝐑𝐄𝐅𝐈𝐗✴️:${global.config.PREFIX}
 
-❇️𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑✳️:{«𝐁𝐎𝐒𝐒 𝐑𝐉 𝐅𝐀𝐑𝐇𝐀𝐍»}
+❇️𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑✳️:{«𝐁𝐎𝐒𝐒 𝐁𝐀𝐏𝐏𝐈»}
  
 🌺𝐎𝐓𝐇𝐄𝐑 𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍🌺________________
 
